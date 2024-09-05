@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', () => {
             img: 'Images/bambam.png'
         },
         {
-            name: 'yugyeom',
-            img: 'Images/yugyeom.png'
+            name: 'Yugyeom',
+            img: 'Images/Yugyeom.png'
         },
 		{
             name: 'got7greenlogo',
